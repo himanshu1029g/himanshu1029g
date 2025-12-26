@@ -30,7 +30,7 @@ Version: FINAL (with Buy Me a Coffee + extras)
 </p>
 
 <p align="center">
-  <a href="Himanshu%27s%20CV.pdf">
+  <a href="Himashu 's CV.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-success?logo=adobeacrobatreader"/>
   </a>
 </p>
