@@ -114,16 +114,19 @@ I enjoy building clean backend logic, scalable APIs, and modern frontend experie
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu1029g&show_icons=true&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=himanshu1029g&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Himanshu Gupta GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu1029g&layout=compact&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu1029g&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu1029g&theme=tokyo-night"/>
-</p>
 
 ---
 
