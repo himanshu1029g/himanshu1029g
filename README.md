@@ -24,13 +24,14 @@ Version: FINAL (with Buy Me a Coffee + extras)
   <a href="mailto:ft.himanshu10@gmail.com">
     <img src="https://img.shields.io/badge/Email-ft.himanshu10@gmail.com-red?logo=gmail"/>
   </a>
+  <!-- <a href="https://buymeacoffee.com/himanshu1029g"> -->
   <a href="https://buymeacoffee.com/himanshu1029g">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?logo=buymeacoffee"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="Himashu 's CV.pdf">
+  <a href="HImanshu_Gupta_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-success?logo=adobeacrobatreader"/>
   </a>
 </p>
