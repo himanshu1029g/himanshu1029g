@@ -93,6 +93,11 @@ I enjoy building clean backend logic, scalable APIs, and modern frontend experie
 📂 Repo: https://github.com/himanshu1029g/TuitionDekho  
 
 ---
+### 🔗 Linktree Clone
+**Dynamic profile & links app**  
+🔹 Next.js • MongoDB  
+📂 Repo: https://github.com/himanshu1029g/Link-Tree
+---
 
 ### 💬 MERN Chat App
 **Real-time chat application**  
@@ -100,11 +105,7 @@ I enjoy building clean backend logic, scalable APIs, and modern frontend experie
 
 ---
 
-### 🔗 Linktree Clone
-**Dynamic profile & links app**  
-🔹 Next.js • MongoDB  
 
----
 
 ### 🛡️ Finance Protection (Hackathon)
 **Fraud detection research prototype**  
