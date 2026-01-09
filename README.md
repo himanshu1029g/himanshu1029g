@@ -96,7 +96,7 @@ I enjoy building clean backend logic, scalable APIs, and modern frontend experie
 
 ### 🔗 Linktree Clone
 **Dynamic profile & links app**  
-🔹 Next.js • MongoDB  
+🔹 Next.js • MongoDB • Next Auth   
 📂 Repo: https://github.com/himanshu1029g/Link-Tree  
 
 ---
