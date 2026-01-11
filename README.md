@@ -44,7 +44,7 @@ Version: FINAL (with Buy Me a Coffee + extras)
 - 💻 Full-Stack Developer (MERN + Firebase)
 - 🚀 Built **booking, payment & real-time systems**
 - 👨‍🏫 Team lead in multiple academic & personal projects
-- 📍 Punjab, India
+- 📍 Ludhiana, Punjab, India
 
 I enjoy building clean backend logic, scalable APIs, and modern frontend experiences that solve real-world problems.
 
