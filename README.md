@@ -44,7 +44,7 @@ Version: FINAL (with Buy Me a Coffee + extras)
 
 - 🎓 B.Tech Computer Science Engineering (2022–2026)
 - 💻 Full-Stack Developer (MERN + Firebase)
-- 🚀 Built **booking, payment & real-time systems**
+- 🚀 Built **booking,Dashboard,  payment & real-time systems**
 - 👨‍🏫 Team lead in multiple academic & personal projects
 - 📍 Ludhiana, Punjab, India
 
