@@ -8,7 +8,7 @@ Version: FINAL (with Buy Me a Coffee + extras)
 <h3 align="center">Full-Stack Developer | MERN | TypeScript | Real-time Applications</h3>
 
 <h3 align="center"> Aspiring Devops Engineer</h3>
-<h3 align="center"> Ask me about tech problems, systems, building projects </h3>
+<h3 align="center"> Ask me about tech problems, systems, Web dev ,  building projects </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu1029g&label=Profile%20Views&color=blue&style=flat" />
 </p>
