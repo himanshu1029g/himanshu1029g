@@ -92,6 +92,7 @@ I enjoy building clean backend logic, scalable APIs, and modern frontend experie
 ### 🎓 TuitionDekho
 **Student–Teacher booking platform**  
 🔹 MERN Stack • JWT  
+🌐 Live: https://tuition-dekho.vercel.app/     
 📂 Repo: https://github.com/himanshu1029g/TuitionDekho  
 
 ---
