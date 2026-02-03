@@ -75,6 +75,8 @@ I enjoy building clean backend logic, scalable APIs, and modern frontend experie
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+  
 </p>
 
 ---
