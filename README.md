@@ -43,10 +43,10 @@ Version: FINAL (with Buy Me a Coffee + extras)
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering (2022–2026)
-- 💻 Full-Stack Developer (MERN + Firebase)
+- 💻 Full-Stack Developer (MERN +  Firebase)
 - 🚀 Built **booking,Dashboard,  payment & real-time systems**
 - 👨‍🏫 Team lead in multiple academic & personal projects
-- 📍 Ludhiana, Punjab, India
+- 📍 Ludhiana, Punjab, India.
 
 I enjoy building clean backend logic, scalable APIs, and modern frontend experiences that solve real-world problems.
 
