@@ -37,6 +37,7 @@ Version: FINAL (with Buy Me a Coffee + extras)
 <p align="center">
   <a href="Himanshu_Gupta_CV.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-success?logo=adobeacrobatreader"/>
+    
   </a>
 </p>
 
