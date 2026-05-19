@@ -35,6 +35,8 @@
 
 ```yaml
 name:        Himanshu Gupta
+email:       ft.himanshu10@gmail.com
+LinkedIn:    www.linkedin.com/in/himanshugupta1029
 location:    Ludhiana, Punjab, India
 education:   B.Tech CSE — IKGPTU (2022–2026)
 currently:   DevOps Trainee Intern @ Pisoft Informatics Pvt. Ltd.
