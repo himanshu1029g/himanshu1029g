@@ -9,9 +9,10 @@
   <em>Currently interning as DevOps Trainee @ Pisoft Informatics Pvt. Ltd.</em>
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu1029g&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/himanshu1029g?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/himanshu1029g&label=Followers&query=$.followers&color=0e75b6&style=flat&logo=github" />
 </p>
 
 <p align="center">
