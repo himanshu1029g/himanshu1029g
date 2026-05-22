@@ -182,15 +182,13 @@ open_to:     DevOps | Cloud | Backend roles (Fresher / Junior)
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats — using githubreadmestatsfast as fallback (works during rate limits) -->
 <p align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api?username=himanshu1029g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=himanshu1029g&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-three-xi-67.vercel.app/api?username=himanshu1029g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-three-xi-67.vercel.app/api/top-langs/?username=himanshu1029g&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<!-- Streak Stats — github-readme-streak-stats (PHP, actively maintained Apr 2026) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=himanshu1029g&theme=tokyonight&hide_border=true&mode=weekly"/>
+  <img src="https://streak-stats.demolab.com/?user=himanshu1029g&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
