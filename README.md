@@ -27,6 +27,9 @@
   <a href="https://buymeacoffee.com/himanshu1029g">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge"/>
   </a>
+  <a href="https://linktr.ee/himanshu1029g">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
 
 ---
@@ -35,8 +38,6 @@
 
 ```yaml
 name:        Himanshu Gupta
-email:       ft.himanshu10@gmail.com
-LinkedIn:    www.linkedin.com/in/himanshugupta1029
 location:    Ludhiana, Punjab, India
 education:   B.Tech CSE — IKGPTU (2022–2026)
 currently:   DevOps Trainee Intern @ Pisoft Informatics Pvt. Ltd.
@@ -181,13 +182,15 @@ open_to:     DevOps | Cloud | Backend roles (Fresher / Junior)
 
 ## 📊 GitHub Stats
 
+<!-- GitHub Stats — using githubreadmestatsfast as fallback (works during rate limits) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu1029g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu1029g&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://githubreadmestatsfast.vercel.app/api?username=himanshu1029g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=himanshu1029g&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
+<!-- Streak Stats — github-readme-streak-stats (PHP, actively maintained Apr 2026) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1029g&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=himanshu1029g&theme=tokyonight&hide_border=true&mode=weekly"/>
 </p>
 
 ---
@@ -205,6 +208,10 @@ open_to:     DevOps | Cloud | Backend roles (Fresher / Junior)
   &nbsp;
   <a href="https://buymeacoffee.com/himanshu1029g">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge"/>
+  </a>
+  &nbsp;
+  <a href="https://linktr.ee/himanshu1029g">
+    <img src="https://img.shields.io/badge/Linktree-All%20Links-43E55E?logo=linktree&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
