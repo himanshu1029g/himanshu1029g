@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1ovx0HVqlTEvOgCvR5C03s0AfPk8TiSCb/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄%20Resume-Download%20CV-1a365d?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-View%20CV-0e75b6?style=flat-square&logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
