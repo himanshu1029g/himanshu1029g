@@ -33,6 +33,13 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ovx0HVqlTEvOgCvR5C03s0AfPk8TiSCb/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20Resume-Download%20CV-1a365d?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
